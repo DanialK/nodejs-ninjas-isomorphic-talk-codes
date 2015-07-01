@@ -1,0 +1,26 @@
+{
+  "name": "isomorphic_talk_step_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danial Khosravi",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^5.6.4",
+    "babelify": "^6.1.2",
+    "chance": "^0.7.6",
+    "express": "^4.13.0",
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-nodemon": "^2.0.3",
+    "gulp-rename": "^1.2.2",
+    "iso": "^4.1.0",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3",
+    "superagent": "^1.2.0",
+    "swig": "^1.4.2"
+  }
+}
